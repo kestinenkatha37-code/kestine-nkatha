@@ -1,18 +1,23 @@
- Hi, I'm Kestine Nkatha 👋
+## Hi, I'm Kestine Nkatha 👋
 
-I am building skills in cloud computing and technology with experience in:
-- Cloud fundamentals (AWS, Linux)
+I am building skills in cloud computing and technology.
+
+### What I Do
+- Cloud computing (beginner level)
 - Data annotation for AI training
 - Online English tutoring on Preply
 
- Skills
+### Skills
 - Git & GitHub
 - Linux basics
 - AWS fundamentals
-- Data labeling & QA
+- Data labeling & quality control
 - Online teaching
 
-Current Focus
+### Currently Learning
 - Hosting websites on the cloud
-- Learning DevOps tools
+- DevOps basics
+
+📫 Contact: kestinenkatha37@gmail.com
+
 
